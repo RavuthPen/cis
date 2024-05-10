@@ -6,7 +6,7 @@ import Title from "./Title";
 
 const Profilte = () => {
   return (
-    <article>
+    <article className="article h1">
       <Title />
       <Author />
       <Message />
